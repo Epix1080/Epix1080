@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Epix1080
-- 👀 I’m interested in Music, Innovation and Technology
-- 🌱 I’m currently learning Python and C++
+- 👋 Hi, I’m Diego Govea @Epix1080
+- 👀 I’m interested in Innovation, Technology and Learning
+- 🌱 I’m currently using Java, Python, Matlab and I'm learning C++
 - 💞️ I’m looking to collaborate on anything I find interesting that may help people somehow
 - 📫 How to reach me? On my email a01284894@itesm.mx
 
